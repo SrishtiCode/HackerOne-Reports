@@ -5,3 +5,4 @@ Top DoS reports from HackerOne:
 3. [CVE-2024-56374: Denial-of-service vulnerability in IPv6 validation](https://hackerone.com/reports/2939104) to Internet Bug Bounty (CVE-2024-42005, CVE-2024-56374) - May 27, 2025
 4. [Groups module can halt chain when handling a proposal with malicious group weights ](https://hackerone.com/reports/3018307) to Cosmos - April 23, 2025
 5. [Deadlock in x86 HVM standard VGA handling](https://hackerone.com/reports/2921724) to Internet Bug Bounty , March 7, 2025
+6. [CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern)](https://hackerone.com/reports/2881639) to Internet Bug Bounty (CVE-2024-45230) , February 5, 2025
