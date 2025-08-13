@@ -8,4 +8,4 @@ Top DoS reports from HackerOne:
 6. [CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern)](https://hackerone.com/reports/2881639) to Internet Bug Bounty (CVE-2024-45230) , February 5, 2025
 7. [CVE-2024-41990: Potential denial-of-service in django.utils.html.urlize()](https://hackerone.com/reports/2795558) to Internet Bug Bounty (CVE-2024-41990) , November 30, 2024
 8. [ReDoS Vulnerability in HTTP Accept Headers Parsing](https://hackerone.com/reports/2584376) to Internet Bug Bounty (CVE-2024-39316) , October 30, 2024
-9. 
+9. [Possible DoS Vulnerability with Range Header in Rack](https://hackerone.com/reports/2520679) to Internet Bug Bounty (CVE-2024-26141) , September 25, 2024
