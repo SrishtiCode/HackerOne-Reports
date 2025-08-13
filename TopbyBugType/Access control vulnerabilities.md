@@ -5,4 +5,5 @@ Top Access Control reports from HackerOne:
  (Improper Access Control - Generic) , February 26, 2025
 3. [Credentials leaked via Github](https://hackerone.com/reports/1078373) to Acronis(Use of Hard-coded Credentials), August 26, 2024
 4. [moderate: Apache HTTP Server: mod_rewrite proxy handler substitution (CVE-2024-39573) CWE-20 Improper Input Validation](https://hackerone.com/reports/2585374) to Internet Bug Bounty(CVE-2024-39573) , August 12, 2024
-
+5. [important: Apache HTTP Server weakness with encoded question marks in backreferences (CVE-2024-38474)](https://hackerone.com/reports/2585381) to Internet Bug Bounty(CVE-2024-38474) , July 13, 2024
+6. 
