@@ -10,4 +10,5 @@ Top DoS reports from HackerOne:
 8. [ReDoS Vulnerability in HTTP Accept Headers Parsing](https://hackerone.com/reports/2584376) to Internet Bug Bounty (CVE-2024-39316) , October 30, 2024
 9. [Possible DoS Vulnerability with Range Header in Rack](https://hackerone.com/reports/2520679) to Internet Bug Bounty (CVE-2024-26141) , September 25, 2024
 10. [CVE-2024-41989: Denial-Of-Service vulnerability in the floatformat template filter when input string contains a big exponent in scientific notation](https://hackerone.com/reports/2644244) to Internet Bug Bounty , September 22, 2024
-11. 
+11. [CVE-2024-35176 DoS vulnerability in REXML](https://hackerone.com/reports/2645836) to Internet Bug Bounty(CVE-2024-35176) , August 23, 2024
+12. [CVE-2024-38875: Denial-Of-Service through uncontrolled resource consumption caused by poor time complexity of strip_punctuation.](https://hackerone.com/reports/2591681) to Internet Bug Bounty(CVE-2024-38875) , August 23, 2024
