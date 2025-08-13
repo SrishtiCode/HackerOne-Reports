@@ -8,3 +8,7 @@ Top Privilege Escalation reports from HackerOne:
 6. [TrueImage for Acronis True Image 2020 - Untrusted DLL Search-Ordering lead to Privilege Escalation as Administrative account](https://hackerone.com/reports/959017) - to Acronis(Privilege Escalation) - August 27, 2024
 7. [DLL Hijacking when creating Rescue Media Builder leading to Privilege Escalation](https://hackerone.com/reports/1010552) - to Acronis(Privilege Escalation) - August 27, 2024
 8. [DLL Hijacking when sending feedback and crash report leading to Privilege Escalation](https://hackerone.com/reports/1008427) - to Acronis(Privilege Escalation) - August 27, 2024
+9. [Local Privilege Escalation when deleting a file from Quarantine](https://hackerone.com/reports/983363) - to Acronis(Privilege Escalation) - August 26, 2024
+10. [Acronis Sync Agent Service - Untrusted DLL Search-Ordering lead to Privilege Escalation](https://hackerone.com/reports/924493) - to Acronis(Privilege Escalation) - August 26, 2024
+11. [DLL Hijacking when performing operations in Acronis Secure Zone partition leading to Privilege Escalation
+](https://hackerone.com/reports/1004740) - to Acronis(Privilege Escalation) - August 26, 2024
