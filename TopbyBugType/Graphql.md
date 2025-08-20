@@ -24,4 +24,6 @@ TOP Graphql Reports
 22. [A deactivated user can access data through GraphQL](https://hackerone.com/reports/1192460) to GitLab , August 30, 2021
 23. [Guest users can create new test cases](https://hackerone.com/reports/1113289) to GitLab , August 30, 2021
 24. [Disclosure handle private program with external link](https://hackerone.com/reports/1276992) to HackerOne , August 24, 2021
+25. [Partial report contents leakage - via HTTP/2 concurrent stream handling](https://hackerone.com/reports/493176) to HackerOne , August 5, 2021
+
  
